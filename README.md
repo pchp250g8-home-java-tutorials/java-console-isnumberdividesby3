@@ -12,7 +12,9 @@ The program does the following:
        otherwise, it terminates. (Go to step 5)
     b) The sum of digits variable is incremented by modulo to 10.
     c) The temporary variable is divisible by 10.     
-  5. The entered number and the sum of its digits are displayed on the screen.
+  5. It is checked whether the resulting sum of the digits of the number is divisible by 3.
+  6. The entered number and the sum of its digits are displayed on the screen.
+  7. The answer to the question whether the given number is divisible by 3 is displayed on the screen.
 
 IsNumberDividesBy3. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы.
 Проект консольного приложения написан на языке программирования Java и реализован в интегрированной среде Apache NetBeans. 
