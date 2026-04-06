@@ -1,4 +1,4 @@
-SumOfDigits. Java tutorials. Console Application. Simple Input/Output. Algorithms. 
+IsNumberDividesBy3. Java tutorials. Console Application. Simple Input/Output. Algorithms. 
 A console application project written in the Java programming language and implemented in the Apache NetBeans integrated environment. 
 The Java platform provides simple input/output. Determining the sum of digits in a number entered from the keyboard.
 The program does the following:
@@ -13,7 +13,7 @@ The program does the following:
     c) The temporary variable is divisible by 10.     
   5. The entered number and the sum of its digits are displayed on the screen.
 
-SumOfDigits. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы.
+IsNumberDividesBy3. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы.
 Проект консольного приложения написан на языке программирования Java и реализован в интегрированной среде Apache NetBeans. 
 Платформа Java. Простой ввод-вывод. Определение суммы цифр в числе, введённом с клавиатуры.
 Данная программа делает следующее:
