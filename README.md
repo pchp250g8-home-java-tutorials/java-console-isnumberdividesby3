@@ -1,6 +1,7 @@
 IsNumberDividesBy3. Java tutorials. Console Application. Simple Input/Output. Algorithms. 
 A console application project written in the Java programming language and implemented in the Apache NetBeans integrated environment. 
 The Java platform provides simple input/output. Determining the sum of digits in a number entered from the keyboard.
+Answer to the question whether a given number is divisible by 3.
 The program does the following:
   1. Prompts the user for an integer.
   2. Sets the sum of digits variable to zero.
